@@ -36,6 +36,7 @@ body{
     font-size: 1em;
     background-color: #0d3ca0e0;
     color: whitesmoke;
+    cursor: pointer;
     padding: 0.8em 0;
     border: none;
     border-radius: 1.5em;
